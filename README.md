@@ -6,13 +6,13 @@ En cryptographie, le chiffrement par décalage, aussi connu comme le chiffre de 
 
 Ce challenge consiste à reprendre en javascript ce concept de chiffrement par décalage.
 
-##Code césar - cryptographie
+## Code césar - cryptographie
 
-créez une fonction qui prend en paramètre une chaine de caractère.
+Créez une fonction qui prend en paramètre une chaine de caractère.
 Cette fonction doit renvoyer une chaine cryptée.
 Crytpage : décaler chaque lettre un cran vers la droite.
 
 ex: chaine non cryptée : simplon
     chaine cryptée : tjnqmpo
 
-#courage ! :)
+### courage ! :)
