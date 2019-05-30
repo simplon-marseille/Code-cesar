@@ -1,5 +1,5 @@
 //Code césar - cryptographie
-//créez une fonction qui prend en paramètre une chaine de caractère.
+//Créez une fonction qui prend en paramètre une chaine de caractère.
 //Cette fonction doit renvoyer une chaine cryptée.
 //Crytpage : décaler chaque lettre un cran vers la droite.
 //
@@ -12,6 +12,10 @@ const alphabet = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p
 const dataNonCrypte1 = "simplon";
 const dataNonCrypte2 = "zoo"; //la lettre 'z' deviendra un 'a';
 
-const dataCrypté = (data) => {
-  //TODO
+const dataCrypted = (data) => {
+
 };
+
+
+//A l'inverse, coder une fonction qui décrypte une chaine caractère sur le même principe.
+
