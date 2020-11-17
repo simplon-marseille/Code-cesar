@@ -42,8 +42,8 @@ console.log(dataCrypted(dataNonCrypte1));
 //console.log(dataCrypted(dataNonCrypte2));
 
 
-//A l'inverse,  pour décrypter une chaine cryptée, il convient coder une fonction qui décrypte une chaine caractère sur le même principe.
-//Il faut trouver l'indice du caractère crypter et décaller de 1 vers la gauche.
+//A l'inverse, pour décrypter une chaine cryptée, il convient coder une fonction qui décrypte une chaine caractère sur le même principe.
+//Il faut trouver l'indice du caractère crypté et le décaller de 1 vers la gauche.
 
 //L'application est bien sûr perfectible:
 // - automatisation des décalage de lettre en fonction de la clé de 
