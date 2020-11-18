@@ -46,8 +46,8 @@ console.log(dataCrypted(dataNonCrypte1));
 //Il faut trouver l'indice du caractère crypté et le décaller de 1 vers la gauche.
 
 //L'application est bien sûr perfectible:
-// - automatisation des décalage de lettre en fonction de la clé de 
+// - automatisation des décalages de lettres en fonction de la clé de 
 //chiffrement 
-// - gestion des espaces si lon veut passer les phrases entières en paramètre de la fonction.
+// - gestion des espaces si l'on veut passer les phrases entières en paramètre de la fonction.
 // - gestion des caractères spéciaux (.,:;, etc...)
 
